@@ -4,3 +4,8 @@
 - :hammer_and_wrench: I use Python, Julia and R
 - :people_hugging: You can reach me on [LinkedIn](https://www.linkedin.com/in/klaudia-jaworek-8102a8236/)
 
+<!--
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaudiajaworek)](https://github.com/klaudiajaworek/github-readme-stats)
+
