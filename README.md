@@ -1,4 +1,4 @@
-<h3 align="center>Hi there, I'm Klaudia! :wave: </h3>
+<h3 align="center">Hi there, I'm Klaudia! :wave: </h3>
 
 - :smiling_face_with_three_hearts: I'm in love with maths, data science and programming
 - :hammer_and_wrench: I use Python, Julia and R
